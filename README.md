@@ -1,12 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Muhammad Ali (Him/He) 🌻
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
-- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
-
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/-C-000?logo=c&logoColor=white&style=for-the-badge)
