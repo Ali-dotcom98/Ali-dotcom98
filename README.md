@@ -19,8 +19,21 @@
 
 
 
-## Tools & Technologies
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+### 🛠 Tools & Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=1572B6&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb&logoColor=47A248&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&logoColor=FF6C37&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-000?logo=figma&logoColor=F24E1E&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes&logoColor=326CE5&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins&logoColor=D24939&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-000?logo=selenium&logoColor=43B02A&style=for-the-badge)
+
 
 
 <img src="https://imgur.com/rilHVxA.png"/>
