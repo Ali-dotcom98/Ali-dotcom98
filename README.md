@@ -22,7 +22,6 @@
 ### 🛠 Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=1572B6&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb&logoColor=47A248&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032&style=for-the-badge)
@@ -33,6 +32,8 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes&logoColor=326CE5&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins&logoColor=D24939&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?logo=selenium&logoColor=43B02A&style=for-the-badge)
+![Judge0](https://img.shields.io/badge/-Judge0-000?logo=codeforces&logoColor=white&style=for-the-badge)
+
 
 
 
