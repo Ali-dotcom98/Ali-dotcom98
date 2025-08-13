@@ -8,9 +8,15 @@
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 
-## Languages & Frameworks
-| ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) |
-|---|---|---|---|---|---|---|
+### Languages & Frameworks
+![C](https://img.shields.io/badge/-C-000?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-000?logo=cplusplus&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-000?logo=redux&logoColor=764ABC&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge)
+
 
 
 ## Tools & Technologies
