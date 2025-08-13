@@ -13,7 +13,7 @@
 
 
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
