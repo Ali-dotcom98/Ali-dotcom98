@@ -30,6 +30,8 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins&logoColor=D24939&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?logo=selenium&logoColor=43B02A&style=for-the-badge)
 ![Judge0](https://img.shields.io/badge/-Judge0-000?logo=codeforces&logoColor=white&style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?style=for-the-badge&logo=socketdotio&logoColor=white)
+
 
 
 
