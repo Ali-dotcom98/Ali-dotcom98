@@ -1,6 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Muhammad Ali (Him/He) 🌻
+## Muhammad Ali (He/Him) 🌻
+- Passionate and detail-oriented Computer Science student with hands-on experience in full-stack web development.
+- Skilled in designing scalable, responsive applications using MERN stack technologies.
+- Demonstrated ability to build real-world projects that integrate secure user access, data visualization, and automated
+  
+####Email : 
+alishah1234584.as@gmail.com
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/-C-000?logo=c&logoColor=white&style=for-the-badge)
