@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Muhammad Ali (He/Him) 🌻
+## Muhammad Ali 🌻
 - Passionate and detail-oriented Computer Science student with hands-on experience in full-stack web development.
 - Skilled in designing scalable, responsive applications using MERN stack technologies.
 - Demonstrated ability to build real-world projects that integrate secure user access, data visualization, and automated
