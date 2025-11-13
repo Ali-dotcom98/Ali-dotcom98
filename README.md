@@ -4,7 +4,6 @@
 ```js
 export default () => ({
   name: "Syed Muhammad Ali Shah",
-  pronouns: "He" | "Him",
   email: "alishah1234584.as@gmail.com",
   github: "https://github.com/Ali-dotcom98/",
   location: "Islamabad, Pakistan",
