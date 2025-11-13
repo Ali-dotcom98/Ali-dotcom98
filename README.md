@@ -44,14 +44,14 @@ export default () => ({
 
 
 ### Languages & Frameworks
-![C](https://img.shields.io/badge/-C-000?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-000?logo=cplusplus&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-000?logo=redux&logoColor=764ABC&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?logo=reactquery&logoColor=FF4154&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-151B23?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-151B23?logo=cplusplus&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-151B23?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-151B23?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-151B23?logo=redux&logoColor=764ABC&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-151B23?logo=node.js&logoColor=339933&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-151B23?logo=express&logoColor=white&style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-151B23?logo=reactquery&logoColor=FF4154&style=for-the-badge)
 
 
 
