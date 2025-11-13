@@ -60,19 +60,19 @@ export default () => ({
 ### Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-151B23?logo=html5&logoColor=E34F26&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-151B23?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-151B23?logo=mongodb&logoColor=47A248&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-151B23?logo=git&logoColor=F05032&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-151B23?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-151B23?logo=postman&logoColor=FF6C37&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-151B23?logo=figma&logoColor=F24E1E&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-151B23?logo=docker&logoColor=2496ED&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-151B23?logo=kubernetes&logoColor=326CE5&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-151B23?logo=jenkins&logoColor=D24939&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-151B23?logo=selenium&logoColor=43B02A&style=for-the-badge)
+![Judge0](https://img.shields.io/badge/-Judge0-151B23?logo=codeforces&logoColor=white&style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-151B23?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb&logoColor=47A248&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&logoColor=FF6C37&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-000?logo=figma&logoColor=F24E1E&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes&logoColor=326CE5&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins&logoColor=D24939&style=for-the-badge)
-![Selenium](https://img.shields.io/badge/-Selenium-000?logo=selenium&logoColor=43B02A&style=for-the-badge)
-![Judge0](https://img.shields.io/badge/-Judge0-000?logo=codeforces&logoColor=white&style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
 
