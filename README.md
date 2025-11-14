@@ -43,7 +43,7 @@ export default () => ({
 
 
 ### Languages & Frameworks
-![C](https://img.shields.io/badge/-C-151B23?logo=c&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-1E2A38?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-151B23?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-151B23?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-151B23?logo=react&logoColor=61DAFB&style=for-the-badge)
