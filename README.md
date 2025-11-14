@@ -58,7 +58,7 @@ export default () => ({
 
 ### Tools & Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-151B23?logo=html5&logoColor=E34F26&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-C-0A84FF?logo=c&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-151B23?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-151B23?logo=mongodb&logoColor=47A248&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-151B23?logo=git&logoColor=F05032&style=for-the-badge)
