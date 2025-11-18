@@ -79,9 +79,9 @@ export default () => ({
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-151B23?logo=express&logoColor=white&style=for-the-badge">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TanStack%20Query-151B23?logo=reactquery&logoColor=FF4154&style=for-the-badge">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TanStack%20Query-F6F8FA?logo=reactquery&logoColor=FF4154&style=for-the-badge">
-  <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack%20Query-151B23?logo=reactquery&logoColor=FF4154&style=for-the-badge">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TanStack%20Query-151B23?style=for-the-badge&logo=reactquery&logoColor=FF4154">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TanStack%20Query-F6F8FA?style=for-the-badge&logo=reactquery&logoColor=FF4154">
+  <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack%20Query-151B23?style=for-the-badge&logo=reactquery&logoColor=FF4154">
 </picture>
 
 
